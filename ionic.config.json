@@ -1,0 +1,7 @@
+{
+  "name": "paathm",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

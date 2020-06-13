@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323542118514",
+    "firebase_url": "https://paatham-bec73.firebaseio.com",
+    "project_id": "paatham-bec73",
+    "storage_bucket": "paatham-bec73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323542118514:android:33f8d46273f012c38312eb",
+        "android_client_info": {
+          "package_name": "com.paatham.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323542118514-608nkp3j09d6bu8th7qvtka90oqcs97i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xBPWSBPizNfWRppQFEfuMhQX2UZ5Z6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323542118514-608nkp3j09d6bu8th7qvtka90oqcs97i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
